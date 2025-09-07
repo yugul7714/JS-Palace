@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9efe6"/>
+      <stop offset="1" stop-color="#dbe7e0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#g2)"/>
+  <circle cx="600" cy="400" r="280" fill="#ffffff" stroke="#c9d5ce"/>
+  <text x="50%" y="52%" text-anchor="middle" font-family="Playfair Display, Georgia, serif" font-size="48" fill="#6c533b">Lawn Setup Placeholder</text>
+</svg>
+
